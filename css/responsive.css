@@ -1,0 +1,63 @@
+
+ @media all and (max-width: 991px){
+ 	.contrac-heading p{
+ 		text-align: center;
+ 		width: 95%;
+ 	}
+ 	.brange-logo{
+ 		flex-wrap: wrap;
+ 	}
+ 	.brange-item {
+			flex-basis:35%; 
+	}
+	.header {
+			padding-bottom: 3rem;
+		}
+	.basic-1 p {
+	 		font-size: 18px;
+		}
+	.public-catalog-area.create-area .col-lg-4.col-md-6{
+			margin-bottom: 50px;
+	}
+	/*.easy-icon img {
+	width: 100%;
+		}*/
+		.service2-item {
+	margin-bottom: 30px;
+}
+	.service2-area .col-md-6.col-lg-4{
+		margin-bottom: 30px;
+	}
+	.create-text p {
+	 
+	width: 95%;
+	text-align: center;
+	}
+ }
+  @media all and (max-width:767px){
+  	 .service-n-main-area {
+	padding: 50px 0;
+	 
+}
+.easyto-area {
+	padding: 50px 0;
+		}
+  }
+  
+ @media all and (max-width: 480px){
+ 			h3,h2{
+ 				font-size: 25px !important;
+ 			}
+ 		.con-umber ul li:first-child{
+ 			text-align: center;
+ 		}
+ 		.brange-item {
+			flex-basis:95%;
+		}
+		.text-container h1 {
+			font-size: 25px !important;
+		}
+		.service-n-icon{
+			width: 20%;
+		}
+ }
